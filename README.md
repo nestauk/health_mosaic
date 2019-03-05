@@ -1,5 +1,32 @@
-# health-innovation-scanner
+# Health Innovation Scanner
 Mapping health innovation globally for the Robert Wood Johnson Foundation.
+
+## Welcome!
+Hello! :balloon:
+
+Thank you for visiting our project repo. This document will give you an overview of the project, where and how you can get involved!
+
+## Table of contents
+* [What are we doing?](##what-are-we-doing)
+* [Who are we?](##who-are-we)
+
+## What are we doing
+### The problem
+* Health funders, policymakers and researchers do not have a “helicopter view” of the health innovation landscape which makes it hard to find the health issues that require additional effort in order to be tackled.
+* It is sometimes difficult for health actors to find people to work with.
+* Potential solutions to health issues are often buried in siloed, hard-to-collect and/or analyse datasets, limiting their reach and impact.
+
+In summary, we lack a comprehensive database on health innovation that would enable actors in the domain to find collaborators, identify gaps and opportunities in health.
+
+### The solution
+We develop a Health Innovation Scanner, an open, online platform that can be used to analyse innovations in health research, as well as activity in startups, apps and social ventures across the world.
+
+Our goal is to enable users to explore the health innovation landscape and gain a better overview of which health innovations are emerging where, and what this means in terms of new trends and opportunities.
+
+
+The Health Innovation Scanner will:
+* Provide an open, accessible web platform to explore health innovation across multiple datasets.
+* Enable users to share their findings with the wider community.
 
 
 ## Who are we?
