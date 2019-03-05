@@ -1,8 +1,8 @@
 # Code of Conduct
-## Participation Guidelines
+## Participation Guidelines  
 This project, funded by Robert Wood Johnson Foundation and participating in Mozilla’s Open Leaders mentorship programme (Cohort 7), respects Mozilla's community participation guidelines. These guidelines govern the behaviour of everyone who is involved in the Health Innovation Scanner at any capacity.
 
-## How to treat each other
+## How to treat each other  
 * Be respectful and welcoming
 * Try to understand different perspectives
 * Do not threaten violence
