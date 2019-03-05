@@ -6,9 +6,12 @@ Hello! :balloon:
 
 Thank you for visiting our project repo. This document will give you an overview of the project, where and how you can get involved!
 
-## Table of contents
-* [What are we doing?](##what-are-we-doing)
-* [Who are we?](##who-are-we)
+## Contents  
+* [What are we doing?](#what-are-we-doing)
+* [Who are we?](#who-are-we)
+* [Contact us](#contact-us)
+* [Glossary](#glossary)
+* [Shout outs](#shout-outs)
 
 ## What are we doing
 ### The problem
@@ -23,14 +26,20 @@ We develop a Health Innovation Scanner, an open, online platform that can be use
 
 Our goal is to enable users to explore the health innovation landscape and gain a better overview of which health innovations are emerging where, and what this means in terms of new trends and opportunities.
 
-
 The Health Innovation Scanner will:
 * Provide an open, accessible web platform to explore health innovation across multiple datasets.
 * Enable users to share their findings with the wider community.
 
-
 ## Who are we?
-
-We are Chantale Tippet (researcher), George Richardson (data scientist) and Kostas Stathoulopoulos (data scientist). We work on the Health Innovation Scanner as part of the [Innovation Mapping](https://www.nesta.org.uk/project/innovation-mapping/) team at [Nesta](https://www.nesta.org.uk/). We are team of data scientists, engineers, visualisers and researchers exploring the use of new data sources, data science methods and interactive visualisations to inform decisions about innovation and research in government and civil society.
+We are Chantale Tippett (researcher), George Richardson (data scientist) and Kostas Stathoulopoulos (data scientist). We work on the Health Innovation Scanner as part of the [Innovation Mapping](https://www.nesta.org.uk/project/innovation-mapping/) team at [Nesta](https://www.nesta.org.uk/). We are team of data scientists, engineers, visualisers and researchers exploring the use of new data sources, data science methods and interactive visualisations to inform decisions about innovation and research in government and civil society.
 
 The scanner is an application we are developing in collaboration with the [Robert Wood Johnson Foundation](https://www.rwjf.org/) (RWJF), a philanthropic organisation focusing on health, and Nesta's [Health Lab](https://www.nesta.org.uk/project/health-lab/). This project began when RWJF decided that to fund the best health innovations, they needed to expand their search globally and to find new technologies and practices.
+
+## Contact us
+Do you have anything to suggest that does not fit in our CONTRIBUTING.md? Open a [new issue](https://github.com/nestauk/health-innovation-scanner/issues)! For anything else, feel free to contact [Chantale](https://twitter.com/CMTippett), [George](https://twitter.com/g_r_richardson), [Kostas](https://twitter.com/kstathou).
+
+## Glossary
+**Add details**
+
+## Shout outs
+Chantale, George and Kostas participate in the Mozilla Open Leaders programme, however, ten people in total (Nesta's Innovation Mapping team) are working on the Health Innovation Scanner.
