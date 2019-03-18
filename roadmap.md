@@ -4,7 +4,7 @@
 
 We are working with members of the health community globally to develop an open, online platform that can be used to explore innovations in health research, as well as activity in startups, apps and social ventures across the world. We are working openly because this will allow others with the goal of improving health in own their communities to validate, replicate, or build on our work.
 
-## Milestones (short and medium-term)
+## Milestones (short and medium-term)
 
 ### 1. First ‘analytic’ output produced (mid-April 2019)
 * Use the platform to analyse research on bowel cancer for a workshop.
