@@ -6,24 +6,23 @@ We are working with members of the health community globally to develop an open,
 
 ## Milestones (short and medium-term)
 
-### 1. First ‘analytic’ output produced (mid-April 2019)
-* Use the platform to analyse research on bowel cancer for a workshop.
-* Write up a short blog on findings.
-* Present these findings at [Health Lab](https://www.nesta.org.uk/project/health-lab/) workshop on 11 April.
+### 1. Internal user testing and external wireframe feedback (first 2 weeks of May 2019) 
+* Test feedback tools (Google Docs and GitHub) within Nesta
+* Debrief on process and plan for larger group testing 
+* Continue recuiting for external user testers 
+* Ask external users to provide feedback on wireframe 
 
+### 2. First prototype tested by users (mid-May to June 2019)
+* Finalise user testing protocol
+* Select group of testers
+* Complete development of the first prototype
+* Deploy to users
 
-### 2. First prototype tested by users (end-April 2019)
-* Choose platform and tools for user testing.
-* Finalise user testing protocol.
-* Select group of testers.
-* Complete development of the first prototype.
-* Deploy to users.
-
-### 3. Minimum Viable Product launched (20 June 2019)
-* Develop and test the search functionality of the Health Innovation Scanner.
-* Exploratory (non-search) landing page.
-* List of innovative research (Rhodonite + NIH data).
-* Map visualisation of startups (Crunchbase data).
-* Map visualisation of Meetups (Meetup data).
+### 3. Minimum Viable Product launched (mid-July 2019)
+* Develop and test the search functionality of the Health Innovation Scanner
+* Exploratory (non-search) landing page
+* List of innovative research (Rhodonite + NIH data)
+* Map visualisation of startups (Crunchbase data)
+* Map visualisation of Meetups (Meetup data)
 
 Please refer to our contribution guidelines for how you can get involved!
