@@ -1,4 +1,5 @@
-# Contributing to the Health Innovation Scanner
+Contributing to the Health Innovation Scanner
+========
 
 Welcome to our project! We’re thrilled to have you here and would love for you to contribute. Our core project team in the Mozilla Open Leaders programme is made up of Chantale, George and Kostas from the UK-based innovation foundation [Nesta](https://www.nesta.org.uk). See the full team and find out more about the project [here](https://www.nesta.org.uk/project/mapping-health-innovation/)!
 
@@ -16,7 +17,7 @@ The easiest way to stay on top of what’s going on in the project is through th
 * Help us make our GitHub repository more inclusive. Should we add anything? Add your thoughts [here](https://github.com/nestauk/health-innovation-scanner/issues/19).
 * Do you know of any organisations working on a similar project? Let us know, we're always searching for collaborators! Add your leads [here](https://github.com/nestauk/health-innovation-scanner/issues/20)!
 * Have a look at the [user journey](ADD LINK) and let us know what you think. Log your ideas [here](https://github.com/nestauk/health-innovation-scanner/issues/22)!
-* Do you want to be a user tester for our prototype platform? [Sign up here](https://github.com/nestauk/health-innovation-scanner/issues/21)!
+* Do you want to be a user tester for our prototype platform? [Sign up here](https://docs.google.com/forms/d/e/1FAIpQLSfRJHIQOCO9lZs7vphjkZ75DvknVCemUf6j3BuvadWq5wQ1dQ/viewform?vc=0&c=0&w=1)!
 * Start a buzz! Promote the project through social media (e.g. LinkedIn, Twitter, Facebook)!
 
 
