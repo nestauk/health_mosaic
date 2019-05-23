@@ -9,8 +9,8 @@ Thank you for visiting our project repo. This document will give you an overview
 ## Contents  
 * [What are we doing?](#what-are-we-doing)
 * [Who are we?](#who-are-we)
+* [Contribute today!](#contribute-today)
 * [Contact us](#contact-us)
-* [Glossary](#glossary)
 * [Shout outs](#shout-outs)
 
 ## What are we doing
@@ -34,6 +34,13 @@ The Health Innovation Scanner will:
 We are Chantale Tippett (researcher), George Richardson (data scientist) and Kostas Stathoulopoulos (data scientist). We work on the Health Innovation Scanner as part of the [Innovation Mapping](https://www.nesta.org.uk/project/innovation-mapping/) team at [Nesta](https://www.nesta.org.uk/). We are team of data scientists, engineers, visualisers and researchers exploring the use of new data sources, data science methods and interactive visualisations to inform decisions about innovation and research in government and civil society.
 
 The scanner is an application we are developing in collaboration with the [Robert Wood Johnson Foundation](https://www.rwjf.org/) (RWJF), a philanthropic organisation focusing on health, and Nesta's [Health Lab](https://www.nesta.org.uk/project/health-lab/). This project began when RWJF decided that to fund the best health innovations, they needed to expand their search globally and to find new technologies and practices.
+
+## Contribute today!
+Check out our [contributions page](https://github.com/nestauk/health-innovation-scanner/blob/master/CONTRIBUTING.md) to find out how you can get involved! We're looking for:
+
+* Organisations doing similar work. Add your leads [here](https://github.com/nestauk/health-innovation-scanner/issues/20)!
+* User testers for our platform. Sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSfRJHIQOCO9lZs7vphjkZ75DvknVCemUf6j3BuvadWq5wQ1dQ/viewform?vc=0&c=0&w=1)!
+* Ways to make our repository more inclusive. Log your thoughts [here](https://github.com/nestauk/health-innovation-scanner/issues/19). 
 
 ## Contact us
 Do you have anything to suggest that does not fit in our CONTRIBUTING.md? Open a [new issue](https://github.com/nestauk/health-innovation-scanner/issues)! For anything else, feel free to contact [Chantale](https://twitter.com/CMTippett), [George](https://twitter.com/g_r_richardson), [Kostas](https://twitter.com/kstathou).
